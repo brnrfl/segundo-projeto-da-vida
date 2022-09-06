@@ -1,0 +1,63 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://freefrontend.com/assets/img/css-weather-icons/css-animated-weather-icons.gif');
+  background-color: #32485e;
+  background-size: 200vh;
+  background-position: relative;
+  background-position-y: 35px;
+  background-position-x: center;
+  background-repeat: no-repeat;
+}
+
+button {
+        font-family: helvetica;
+        font-weight: 600;
+        font-size: 18px;
+        background: white;
+        color: #fffff;
+        padding: 0.8rem;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        border: none;
+        border-radius: 8px;
+}
+  
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 90vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 20 0 20px;
+  font-size: 45px;
+  font-family: Arial Black, monospace;
+  min-height: 30px;
+  font-variant: small-caps;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+  margin-bottom: 60px;
+  font-family: helvetica, monospace;
+  font-weight: 600;
+  min-height: 18px;
+  font-stretch: expanded;
+}
+
+.page-logo {
+  width: 125px;
+  position: absolute;
+  top: 9px;
+  right: 60px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 11px;
+  right: 10px;
+}
